@@ -4,6 +4,12 @@ A new Flutter project.
 A Flutter UI Challenge , Outline LoadingIndicator
 
 
+
+https://user-images.githubusercontent.com/41432455/195683346-bbdff718-171b-4106-a462-f678cb6bc70e.mp4
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
